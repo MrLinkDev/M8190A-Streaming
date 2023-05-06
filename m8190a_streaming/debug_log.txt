@@ -1,0 +1,23 @@
+Beginning of driver initialization
+Beginning of driver initialization
+Driver initialized
+num_segments = 16
+segment_size = 6291456
+trigger_freq = 1
+repeat_count = 5
+sample freq = 1e+09
+carrier_freq = 1e+09
+Channel 1: beginning of streaming
+Channel 1: setted file segment count
+Channel 1: filename = C:\ToolLog.txt
+Channel 1: instrument is ready
+Channel 1: waveform array created
+Channel 1: waveform is loaded
+Channel 1: file streaming is starting
+Transferred bytes:  0
+Elapsed time:       0
+Download rate:      0/s
+Required rate:      3/s
+Beginning of driver initialization
+Beginning of driver initialization
+Beginning of driver initialization
